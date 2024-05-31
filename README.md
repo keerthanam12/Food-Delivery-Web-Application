@@ -18,7 +18,7 @@ Food-Delivery-Web-Application
 
 ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/Npm-100000?style=for-the-badge&logo=npm&logoColor=white)
-![EXPRESSJS]()
+![EXPRESSJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
@@ -60,7 +60,7 @@ Food-Delivery-Web-Application
 ## ⚡ Need more Toturial?
   * [NPM Official Site](https://www.npmjs.com/)
 
-<p align="center"><a href="https://expressjs.com/" target="_blank"><img src="" width="200" alt="Express.js Logo"></a></p>
+<p align="center"><a href="https://expressjs.com/" target="_blank"><img src="(https://github.com/keerthanam12/Food-Delivery-Web-Application/assets/145577874/5c2a4a03-e9d3-40d0-9857-a311810cc6f5" width="200" alt="Express.js Logo"></a></p>
 
 <p align="center">
 <a href="https://packagist.org/packages/kosatyi/react-express"><img src="https://img.shields.io/packagist/dt/kosatyi/react-express" alt="Total Downloads"></a>
