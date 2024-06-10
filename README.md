@@ -19,6 +19,9 @@ Food-Delivery-Web-Application
 ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/Npm-100000?style=for-the-badge&logo=npm&logoColor=white)
 ![EXPRESSJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+**Database:**
+
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
@@ -72,7 +75,7 @@ Food-Delivery-Web-Application
   * Download `express.js` from here https://expressjs.com/en/starter/installing.html
   * To install `express.js` use the following command `npm init` and `npm install express`
   * Destination Folder. Custom Setup. Ready to Install `express.js`
-  * Checking and updating `express.js` version the following command `express --version`
+  * Checking and updating `express.js` version the following command `express -v`
   * Complete the installation until finish.
 
 ## ⚡ Need more Toturial?
@@ -86,10 +89,10 @@ Food-Delivery-Web-Application
 </p>
 
 ## ⚡ About MongoDB
-  * Install and setup `mongodb` package
+  * Install the `mongodb` package
   * Download `mongodb` from here https://www.mongodb.com/docs/v2.6/tutorial/install-mongodb-on-windows/
   * Then setup the `mongodb` package
-  * Checking and updating `mongodb` version the following command `mongod --version`
+  * Checking and updating `mongodb` version the following command `mongod -v`
   * Complete the installation until finish.
 
 ## ⚡ Need more Toturial?
@@ -107,7 +110,7 @@ Food-Delivery-Web-Application
   * Download `react` from here https://react.dev/learn/installation
   * To install `react`before install `node.js` and `npm` already in your environment.
   * Then create new app use the following command `npm install -g create-react-app` and `create-react-app --version`
-  * Checking and updating `react` version the following command `node --version`
+  * Checking and updating `react` version the following command `node -v`
   * Complete the installation until finish.
 
 ## ⚡ Need more Toturial?
@@ -115,7 +118,7 @@ Food-Delivery-Web-Application
 
 
 ## 🚀 Run the Project
-**1.** Download and Extract the zip file. Make sure to install the packages "NodeJS" and "NPM" and "MongoDB" and "React" and "ExpressJS" in your environment variables.
+**1.** Download and Extract the zip file. Make sure to install the packages "node.js" and "npm" and "mongodb" and "react" and "express.j" in your environment variables.
 
 **2.** Go to the File Explorer. Open the Extracted zip file.
 
@@ -142,3 +145,5 @@ Feel free to reach me through the below handles if you'd like to contact me.
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthana-m-083454259)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keerthana0mohan)
+
+![KEERTHANA](http://ForTheBadge.com/images/badges/built-with-love.svg)
