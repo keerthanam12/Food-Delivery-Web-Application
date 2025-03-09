@@ -114,7 +114,7 @@ Food Delivery Web Application! This project is a comprehensive web-based platfor
 ## ⚡ About React
   * Install and setup `react` package
   * Download `react` from here https://react.dev/learn/installation
-  * To install `react`before install `node.js` and `npm` already in your environment.
+  * To install `react` before install `node.js` and `npm` already in your environment.
   * Then create new app use the following command `npm install -g create-react-app` and `create-react-app --version`
   * Checking and updating `react` version the following command `react -v`
   * Complete the installation until finish.
