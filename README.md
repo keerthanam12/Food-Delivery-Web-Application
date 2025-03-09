@@ -124,7 +124,7 @@ Food Delivery Web Application! This project is a comprehensive web-based platfor
 
 
 ## 🚀 Run the Project
-**1.** Download and Extract the zip file. Make sure to install the packages "node.js" and "npm" and "mongodb" and "react" and "express.j" in your environment variables.
+**1.** Download and Extract the zip file. Make sure to install the packages "node.js" and "npm" and "mongodb" and "react" and "express.js" in your environment variables.
 
 **2.** Go to the File Explorer. Open the Extracted zip file.
 
