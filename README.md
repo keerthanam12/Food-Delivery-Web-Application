@@ -3,7 +3,7 @@ Food-Delivery-Web-Application
 
 
 # 🔗 Project Description
- Food Delivery Web Application! This project is a comprehensive web-based platform designed to streamline the process of ordering food from various restaurants, allowing users to enjoy their favorite meals delivered directly to their doorstep. Whether you're craving pizza, sushi, or a healthy salad, our application provides a seamless and user-friendly experience to satisfy your culinary desires.
+Food Delivery Web Application! This project is a comprehensive web-based platform designed to streamline the process of ordering food from various restaurants, allowing users to enjoy their favorite meals delivered directly to their doorstep. Whether you're craving pizza, sushi, or a healthy salad, our application provides a seamless and user-friendly experience to satisfy your culinary desires.
 
 
 ## 🖥️ Tech Stack
